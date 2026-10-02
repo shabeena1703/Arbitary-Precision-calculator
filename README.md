@@ -684,7 +684,7 @@ This project successfully implements an **Arbitrary Precision Calculator in C** 
 
 The calculator performs addition, subtraction, multiplication, and division on large integers without relying on the limitations of standard C integer data types.
 
-The project provided practical experience in **data structures, pointers, dynamic memory allocation, linked-list manipulation, arithmetic algorithms, and modular C programming**.
+The project provided practical experience in data structures, pointers, dynamic memory allocation, linked-list manipulation, arithmetic algorithms, and modular C programming.
 
 ---
 
